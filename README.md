@@ -60,6 +60,5 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 #### "Suggestions and project improvement ideas are welcomed!"
 
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+<bold>Thanks</bold><br/>
+                                                                                                        
