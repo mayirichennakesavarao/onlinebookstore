@@ -58,7 +58,5 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - : MySQL Workbench (optional) [https://www.youtube.com/watch?v=t79oCeTXHwg]
 
 
-#### "Suggestions and project improvement ideas are welcomed!"
-
 <bold>Thanks</bold><br/>
                                                                                                         
